@@ -14,12 +14,12 @@ global.confirmCode = ""
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
 ['595976126756', '👑 Cʀᴇᴀᴅᴏʀ', true],
-['595975726335', 'Oᴡɴᴇʀ 👑', true],
+['595975655723', 'Oᴡɴᴇʀ 👑', true],
 ['595994836199']]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
-["595975726335", '𝗢𝗳𝗰 𝗗𝗮𝘃𝗶𝗱 👑', 1],
+["595975655723", '𝗢𝗳𝗰 𝗗𝗮𝘃𝗶𝗱 👑', 1],
 ["595976126756", '𝗢𝗳𝗰 𝗔𝗱𝗿𝗶𝗮𝗻 👑', 1],
 ["595994836199", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🐈', 1],
 ["595986224522", '𝗢𝗳𝗰 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💻', 1],
@@ -85,7 +85,7 @@ global.wm2 = `${dia} ${fecha}\nThe-SimpleBot-MDV2`;
 global.gt = 'The-SimpleBot-MDV2';
 global.yoshiko = 'The-SimpleBot-MDV2';
 global.yoshiko = 'https://github.com/David-OFC/The-SimpleBot-MDV2';
-global.nomorown = '595994825505';
+global.nomorown = '595975655723';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
